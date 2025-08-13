@@ -32,8 +32,8 @@ Public sentiment directly affects brand trust and consumer behavior. With opinio
 ## 📦 Prerequisites
 Make sure you have these installed:
 - [Node.js](https://nodejs.org/) (version )
-Command : npm install react@18 react-dom@18
-Command : npm install
+Command : npm install react@18 react-dom@18;
+Command : npm install;            
 - npm (comes with Node.js)
 
 Check your versions:
